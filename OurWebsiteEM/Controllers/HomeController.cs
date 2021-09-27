@@ -32,6 +32,7 @@ namespace OurWebsiteEM.Controllers
         {
             return View();
         }
+        //HELLO ERDEM
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
